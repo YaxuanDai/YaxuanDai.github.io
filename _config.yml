@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Boqian Yu"
+title                    : "Yaxuan Dai"
 title_separator          : "-"
-name                     : &name "Boqian Yu"
-description              : &description "Master student at Technical University of Munich"
-url                      : https://eySch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yaxuan Dai"
+description              : &description "R&D on Perception, Prediction and Planning."
+url                      : https://yaxuandai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "eySch/eySch.github.io"
+repository               : "YaxuanDai/YaxuanDai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Boqian Yu"
+  name             : "Yaxuan Dai"
   avatar           : "profile.png"
-  bio              : "Master Student in Robotics, Cognition, Intelligence at Technical University of Munich"
-  location         : "Munich, Germany"
-  employer         :
+  bio              : "Computer Science Undergraduate Student at Beijing University of Posts and Telecommunications."
+  location         : "Beijing, China"
+  employer         : "Meituan Autonomous Delivery"
   googlescholar    :
-  email            : "ernst.yu@hotmail.com"
+  email            : "yaxuan.dai@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "eySch"
+  github           : "YaxuanDai"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/boqian-yu-36aba7154"
-  orcid            : "https://orcid.org/0000-0001-6218-8238"
+  linkedin         : "https://www.linkedin.com/in/yaxuandai/"
+  orcid            : #"https://orcid.org/0000-0001-6218-8238"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
